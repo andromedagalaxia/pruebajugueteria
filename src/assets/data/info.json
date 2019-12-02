@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "nombre": "PlayMobil - Barco Pirata",
+      "categoria": "Juguetes",
+      "modelo": 6678,
+      "marca": "Hasbro",
+      "precioLista": 4700,
+      "existencia": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Lego City - Tren de Pasajeros",
+      "categoria": "Juguetes",
+      "modelo": 7939,
+      "marca": "LEGO",
+      "precioLista": 3399,
+      "existencia": 3
+    },
+    {
+      "id": 3,
+      "nombre": "Xbox ONE S",
+      "categoria": "Consolas",
+      "modelo": "XBO3",
+      "marca": "Microsoft",
+      "precioLista": 4499.99,
+      "existencia": 5
+    },
+    {
+      "id": 4,
+      "nombre": "Play Station 4",
+      "categoria": "Consolas",
+      "modelo": "PS44",
+      "marca": "SONY",
+      "precioLista": 4799.99,
+      "existencia": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Nintendo Switch",
+      "categoria": "Consolas",
+      "modelo": "NSW5",
+      "marca": "Nintendo",
+      "precioLista": 7899.99,
+      "existencia": 2
+    },
+    {
+      "id": 6,
+      "nombre": "PlayMobil - Gran Zoo",
+      "categoria": "Juguetes",
+      "modelo": 6634,
+      "marca": "Hasbro",
+      "precioLista": 1499.99,
+      "existencia": 4
+    },
+    {
+      "id": 7,
+      "nombre": "PlayMobil - Excavadora",
+      "categoria": "Juguetes",
+      "modelo": 5282,
+      "marca": "Hasbro",
+      "precioLista": 789,
+      "existencia": 1
+    },
+    {
+      "id": 8,
+      "nombre": "TEST01",
+      "categoria": "CATTEST",
+      "modelo": "MODELOTESTR01",
+      "marca": "MARCATEST01",
+      "precioLista": 99.99,
+      "existencia": 99
+    }
+  ]
